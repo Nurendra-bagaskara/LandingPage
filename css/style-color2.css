@@ -181,3 +181,9 @@ a:hover {
   /*mengatur lebar tag div*/
   width: 1px;
 }
+
+@media (max-width: 768px) {
+  .vertikal_center {
+    border-left: none;
+  }
+}
