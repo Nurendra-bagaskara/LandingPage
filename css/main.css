@@ -2526,7 +2526,7 @@ p {
   opacity: 1;
   visibility: visible;
 }
-@media (max-width: 768px -1px) {
+@media (max-width: 768px ) {
   .page-header-alpha .all-menu-wrapper .navbar-nav .nav-item {
     font-size: 1.5rem;
     opacity: 1;
